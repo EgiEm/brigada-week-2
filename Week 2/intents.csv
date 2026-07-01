@@ -1,0 +1,43 @@
+text,label
+remind me to buy milk tonight,create_task
+remind me to bye milk,create_task
+add an item to my to-do list: clean the kitchen,create_task
+schedule a task to call the landlord tomorrow,create_task
+don't let me forget to lock the garage,create_task
+put wash the car on my chores list,create_task
+"Erinnere mich daran, Milch zu kaufen",create_task
+call Sarah right now,place_call
+give my dad a ring,place_call
+phone the pizza restaurant,place_call
+dial the manager's office,place_call
+get David on the line,place_call
+please dial my grandmother,place_call
+Ruf Mama an,place_call
+what is the speed of light,answer_question
+how many countries are in Europe,answer_question
+who wrote the Harry Potter books,answer_question
+why is the sky blue during the day,answer_question
+explain how photosynthesis works,answer_question
+what is the capital city of France,answer_question
+tell me the definition of serendipity,answer_question
+remember that my car keys are on the table,save_memory
+keep in mind my Wi-Fi password is password123,save_memory
+store this info that my blood type is O positive,save_memory
+save the memory that I met John today,save_memory
+make a mental note that the garage code is 4321,save_memory
+write down that my sister's birthday is June 5th,save_memory
+rember that my locker number is 105,save_memory
+set a timer for 10 minutes,set_timer
+start a stopwatch for cooking eggs,set_timer
+wake me up in twenty minutes,set_timer
+begin a countdown of 5 minutes,set_timer
+timer for thirty seconds please,set_timer
+pause the current timer,set_timer
+Stelle einen Timer auf 5 Minuten,set_timer
+play some jazz music,out_of_scope
+turn off the living room lights,out_of_scope
+how long will it take to get to work,out_of_scope
+find a coffee shop nearby,out_of_scope
+can you tell me a funny joke,out_of_scope
+what is my calendar looking like tomorrow,out_of_scope
+recommend a good movie to watch tonight,out_of_scope

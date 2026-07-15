@@ -103,3 +103,5 @@ with open("model.pkl", "rb") as f:
 intent = loaded_model.predict(["Stell einen Wecker auf sechs Uhr"])[0]
 print(f"Predicted Intent: {intent}")
 ```
+
+<!-- commit message update -->
